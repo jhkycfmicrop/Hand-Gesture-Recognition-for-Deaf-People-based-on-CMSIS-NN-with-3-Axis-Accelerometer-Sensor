@@ -5,6 +5,10 @@
 
 ***Note: this lab will be made application for Windows users only. MacOS might be similar but Linux user is not.***
 
+======================================================================================================================================================================
+
+### What's needed? ###
+
 **Equipments:**
 1. One STM32 board, we are using NUCLEO-F446RE.
 2. One Accelerometer, we are using ADXL337.
@@ -17,8 +21,9 @@
 2. STM32CubeIDE
 3. Windows Command Prompt
 
+======================================================================================================================================================================
 
-//*Preparation*//  >> maybe need re-arrange the sequence
+### Preparation ### >> maybe need re-arrange the sequence
 
 **Part A - Equipment Setup**
 1. The ADXL337 bought come in the way that the pins are not soldered on to the ADXL337, solder carefully, make sure there must be gap between each solder to avoid short circuit, and make sure the size of solder is not too big to minimize the noise/resistance. 
@@ -45,8 +50,8 @@
     3. Select desire software version, and host laptop OS, and download. Afterwards, install the IDE.
 
 
-You are now got your hardware and software ready, next will be the hardware software integration to collect data, debug, and further actions.
+#### You are now got your hardware and software ready, next will be the hardware software integration to collect data, debug, and further actions. ####
 
 
-//*Connect Device to Edge Impulse*//
+###Connect Device to Edge Impulse###
 1. 
