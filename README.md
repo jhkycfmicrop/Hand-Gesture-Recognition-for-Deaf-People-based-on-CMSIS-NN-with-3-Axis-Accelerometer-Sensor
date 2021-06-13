@@ -54,4 +54,4 @@
 #### You are now got your hardware and software ready, next will be the hardware software integration to collect data, debug, and further actions. ####
 
 
-###Connect Device to Edge Impulse###
+### Connect Device to Edge Impulse ###
