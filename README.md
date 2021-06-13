@@ -1,0 +1,1 @@
+# jhkycfmicrop-Hand-Gesture-Recognition-for-Deaf-People-based-on-CMSIS-NN-with-3-Axis-Accelerometer-Se
