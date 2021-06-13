@@ -24,12 +24,14 @@ Part A - Equipment Setup
 1. The ADXL337 bought come in the way that the pins are not soldered on to the ADXL337, solder carefully, make sure there must be gap between each solder to avoid short circuit, and make sure the size of solder is not too big to minimize the noise/resistance. 
 2. Connect the ADXL337 with NUCLEO-F446RE using 5 jumpers for 5 pins. As well as connect the NUCLEO to host computer with mini USB. Connection as shown below. >>picture
 
+
+
 Part B - Software Installation / Configuation
-1. Install Node.js Python3, and Edge Impulse CLI tools
-    i. go to https://docs.edgeimpulse.com/docs/cli-installation
-    ii. Under "Installation - macOS and Windows", click the highlighted "Node.js" to download Node.js.
-    iii. follow the installation instruction for Node.js
-    1v. Launch ""install additional tools for Node.js". You can search this from your Windows start menu. By following this, Python3 should be installed also.
+Markup: 1. Install Node.js Python3, and Edge Impulse CLI tools
+             1. go to https://docs.edgeimpulse.com/docs/cli-installation
+             2. Under "Installation - macOS and Windows", click the highlighted "Node.js" to download Node.js.
+             3. follow the installation instruction for Node.js
+             4. Launch ""install additional tools for Node.js". You can search this from your Windows start menu. By following this, Python3 should be installed also.
 2. Install Edge Impulse CLI tools
   2. Launch the Windows command prompt.
   2. enter the command: npm install -g edge-impulse-cli --force
