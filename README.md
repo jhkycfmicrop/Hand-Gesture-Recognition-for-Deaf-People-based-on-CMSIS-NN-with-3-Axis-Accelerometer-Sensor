@@ -26,10 +26,10 @@ Part A - Equipment Setup
 
 Part B - Software Installation / Configuation
 1. Install Node.js Python3, and Edge Impulse CLI tools
-  i. go to https://docs.edgeimpulse.com/docs/cli-installation
-  ii. Under "Installation - macOS and Windows", click the highlighted "Node.js" to download Node.js.
-  iii. follow the installation instruction for Node.js
-  1v. Launch ""install additional tools for Node.js". You can search this from your Windows start menu. By following this, Python3 should be installed also.
+    i. go to https://docs.edgeimpulse.com/docs/cli-installation
+    ii. Under "Installation - macOS and Windows", click the highlighted "Node.js" to download Node.js.
+    iii. follow the installation instruction for Node.js
+    1v. Launch ""install additional tools for Node.js". You can search this from your Windows start menu. By following this, Python3 should be installed also.
 2. Install Edge Impulse CLI tools
   2. Launch the Windows command prompt.
   2. enter the command: npm install -g edge-impulse-cli --force
