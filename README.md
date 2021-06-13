@@ -3,7 +3,7 @@
 
 ## This project will provide the required steps, software, hardware and any other materials and apparatus that needed to build the device which prototyping the concept of implementing hand gesture recognition on STM32 NUCLEO-F446RE using CMSIS-NN and CMSIS-DSP with 3 Axis accelerometer, targeting for the one who having hearing disability. ##
 
-*** Note: this lab will be made application for Windows users only. MacOS might be similar but Linux user is not. ***
+***Note: this lab will be made application for Windows users only. MacOS might be similar but Linux user is not.***
 
 **Equipments:**
 1. One STM32 board, we are using NUCLEO-F446RE.
