@@ -1,18 +1,18 @@
 # Hand-Gesture-Recognition-for-Deaf-People-based-on-CMSIS-NN-with-3-Axis-Accelerometer-Sensor #
 
 
-This project will provide the required steps, software, hardware and any other materials and apparatus that needed to build the device which prototyping the concept of implementing hand gesture recognition on STM32 NUCLEO-F446RE using CMSIS-NN and CMSIS-DSP with 3 Axis accelerometer, targeting for the one who having hearing disability.
+## This project will provide the required steps, software, hardware and any other materials and apparatus that needed to build the device which prototyping the concept of implementing hand gesture recognition on STM32 NUCLEO-F446RE using CMSIS-NN and CMSIS-DSP with 3 Axis accelerometer, targeting for the one who having hearing disability. ##
 
->> Note: this lab will be made application for Windows users only. MacOS might be similar but Linux user is not.
+*** Note: this lab will be made application for Windows users only. MacOS might be similar but Linux user is not. ***
 
-Equipments:
+**Equipments:**
 1. One STM32 board, we are using NUCLEO-F446RE.
 2. One Accelerometer, we are using ADXL337.
 3. Mini USB to connect NUCLEO board to host computer.
 4. Some jumpers/wires.
 5. Breadboard
 
-Software/Application:
+**Software/Application:**
 1. Edge Impulse www.edgeimpulse.com
 2. STM32CubeIDE
 3. Windows Command Prompt
@@ -20,13 +20,13 @@ Software/Application:
 
 //*Preparation*//  >> maybe need re-arrange the sequence
 
-Part A - Equipment Setup
+**Part A - Equipment Setup**
 1. The ADXL337 bought come in the way that the pins are not soldered on to the ADXL337, solder carefully, make sure there must be gap between each solder to avoid short circuit, and make sure the size of solder is not too big to minimize the noise/resistance. 
 2. Connect the ADXL337 with NUCLEO-F446RE using 5 jumpers for 5 pins. As well as connect the NUCLEO to host computer with mini USB. Connection as shown below. >>picture
 
 
 
-Part B - Software Installation / Configuation
+**Part B - Software Installation / Configuation**
 1. Install Node.js Python3, and Edge Impulse CLI tools
     1. go to https://docs.edgeimpulse.com/docs/cli-installation
     2. Under "Installation - macOS and Windows", click the highlighted "Node.js" to download Node.js.
