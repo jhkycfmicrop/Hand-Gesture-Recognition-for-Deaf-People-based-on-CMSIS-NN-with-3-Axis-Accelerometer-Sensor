@@ -23,7 +23,7 @@
 
 ============================================================================================
 
-### Preparation ### >> maybe need re-arrange the sequence
+### Preparation ###  (maybe need re-arrange the sequence)
 
 **Part A - Equipment Setup**
 1. The ADXL337 bought come in the way that the pins are not soldered on to the ADXL337, solder carefully, make sure there must be gap between each solder to avoid short circuit, and make sure the size of solder is not too big to minimize the noise/resistance. 
