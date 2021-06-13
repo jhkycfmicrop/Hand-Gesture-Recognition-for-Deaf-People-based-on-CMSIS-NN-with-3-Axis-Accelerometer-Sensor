@@ -33,18 +33,16 @@ Part B - Software Installation / Configuation
     3. follow the installation instruction for Node.js
     4. Launch ""install additional tools for Node.js". You can search this from your Windows start menu. By following this, Python3 should be installed also.
 
-
-
 2. Install Edge Impulse CLI tools
-  2. Launch the Windows command prompt.
-  2. enter the command: npm install -g edge-impulse-cli --force
-  2. you should have the CLI tools under npm folder at the path showed in the command prompt
-  2. if you failed to install the CLI tools and required to reinstall, remove the existing npm folder first, then only reinstall.
+    1. Launch the Windows command prompt.
+    2. enter the command: npm install -g edge-impulse-cli --force
+    3. you should have the CLI tools under npm folder at the path showed in the command prompt
+    4. if you failed to install the CLI tools and required to reinstall, remove the existing npm folder first, then only reinstall.
 
 3. Install STM32CubeIDE
-  3. You may use STM32CubeMX for pin configuration, and use Keil MDK for coding. But for this project, we will need STM32CubeIDE, because this software consist both of the functions. Also, to use neural network model from Edge Impulse, CPP file is needed. If using MDK Keil, direct rename on the C file to CPP file is not gonna work.
-  3. Go to https://www.st.com/en/development-tools/stm32cubeide.html
-  3. Select desire software version, and host laptop OS, and download. Afterwards, install the IDE.
+    1. You may use STM32CubeMX for pin configuration, and use Keil MDK for coding. But for this project, we will need STM32CubeIDE, because this software consist both of the functions. Also, to use neural network model from Edge Impulse, CPP file is needed. If using MDK Keil, direct rename on the C file to CPP file is not gonna work.
+    2. Go to https://www.st.com/en/development-tools/stm32cubeide.html
+    3. Select desire software version, and host laptop OS, and download. Afterwards, install the IDE.
 
 
 You are now got your hardware and software ready, next will be the hardware software integration to collect data, debug, and further actions.
